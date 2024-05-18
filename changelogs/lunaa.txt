@@ -1,4 +1,12 @@
-# 17-May-2024
+# EverestOS Version 1.2 (17-May-2024)
 
-- Initial QPR2 Build.
-- May SP
+- May SecurityPatch 
+- Synced with latest Everest Source 
+- Enabled battery cycle count from battery information
+- Added OP-12 Camera
+- Switched to Everest launcher(Launcher 3)
+- Fixed Lockscreen Charging info
+
+Notes: 
+
+- Added Updater (from Next update You can Update From OTA or Local Update)
