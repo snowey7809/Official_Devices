@@ -1,0 +1,23 @@
+# Highlights & Device Specific Changes:
+# Device: Poco F5 (marble)
+## Device maintainer: SharmagRit
+
+===== 19 May, 2024 =====
+- Add missing charger & dolby visiob blobs
+- Debloat gapps packages
+- Fixed Autobrightness
+- Update hyper blobs from V816.0.5.0
+- Synced with latest los kernel
+- Synced with latest Everest V1.2 source based on May SP
+
+===== 08 May, 2024 =====
+- Based on LOS trees
+- MemeCam included
+- Ships with BCR app v1.62
+- Ships with Parts & Dolby sound and Widevine is L1
+- Switched to OSS kernel and ships with 5.10.209
+
+## Notes:
+- Based on HyperOS fw
+- Bugs? just send me logs
+- Clean flash is mandatory
