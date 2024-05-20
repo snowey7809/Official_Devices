@@ -1,0 +1,9 @@
+# Device: xiaomi13 (xiaomi13)
+## Device maintainer: xt0032rus
+
+===== 19 May, 2024 =====
+- May SecurityPatch 
+- Synced with latest Everest Source 
+- Enabled battery cycle count from battery information
+- Added MIUI Camera
+- Switched to Everest launcher(Launcher 3)
