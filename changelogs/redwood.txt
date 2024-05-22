@@ -1,0 +1,19 @@
+### Device side changelogs
+
+EverestOS 1.2 - GOKYO 
+- Added sku prop for Proper Identification
+- Synced with latest Everest source changes
+- Cam,KSU,Dolby included
+- underhood optimizations and improvements
+- Many more Check your self and tell
+
+Notes:
+- Added Updater, next time you can update through OTA or Local update
+
+EverestOS 1.1 - KHUMBU
+- Initial QPR2 build
+- Improved Stability 
+- Mi Cam included
+- KSU included
+- Dolby included
+- Many more
