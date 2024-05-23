@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": 1715583508,
-      "size": 3175198460,
-      "filehash": "3f81e6fae7bd255a9c3c85932c776c18",
-      "filename": "Everest-1.2-Gokyo-xiaomi13-OFFICIAL-GAPPS-1227-20240519.zip",
-      "id": "d758a35abe3ae1c592df048cd994688547f1434e08cad74b5462a1013e8b6625",
+      "size": 3171574960,
+      "filehash": "a6bc0ae0f222a121e3adb3f9a5cf1285",
+      "filename": "Everest-1.2-Gokyo-xiaomi13-OFFICIAL-GAPPS-1838-20240522.zip",
+      "id": "b3af9b4f9208b155201eddad034598bd2be570aa3bd89ce3c237dacc8c4cd1b7",
       "romtype": "OFFICIAL",
       "version": "1.2",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/xiaomi13/Everest-1.2-Gokyo-xiaomi13-OFFICIAL-GAPPS-1227-20240519.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/xiaomi13/Everest-1.2-Gokyo-xiaomi13-OFFICIAL-GAPPS-1838-20240522.zip/download"
     }
   ]
 }
