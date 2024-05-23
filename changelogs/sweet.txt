@@ -1,0 +1,4 @@
+### Device side changelogs
+
+# EverestOS 1.2 - GOKYO
+- Initial official build
