@@ -1,0 +1,31 @@
+# 30-May-2024
+
+- Initial Official Release
+- May SecurityPatch
+- Signbuild (Playintegrity passed) 
+- Synced with latest Everest Source
+- Miui Camera by default
+- Enable screen-off UDFPS by default
+- Import powerhint configuration from Pixel 4A
+- Update CPU Architectures
+- Add Flipendo powerhint
+- Optimize package manager dexopt
+- Improve auto brightness
+- Adapt powerhint to SM7435
+
+=====================================================
+
+# Notes :
+- Always recommended to cleanflash
+- Always use the latest twrp/ofox
+- Firmware is not included, flash according to region before flashing the ROM
+- Good luck!
+
+# How to Install :
+- Reboot to twrp/ofox
+- Flash firmware according to country (Global firmware is recommended)
+- Flash rom Everest.zip
+- Check reflash twrp so that twrp is not overwritten
+- Reboot back to TWRP
+- Data Format (Optional)
+- Reboot system. Done!
