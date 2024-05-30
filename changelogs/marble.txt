@@ -2,22 +2,28 @@
 # Device: Poco F5 (marble)
 ## Device maintainer: SharmagRit
 
+===== 29 May, 2024 =====
+* Fix Ott playback issue
+* Fix QS lag (hopefully)
+* Signed build based on May SP
+* You can do dirty on v1.2, if u face some issue then do a clean flash
+
 ===== 19 May, 2024 =====
-- Add missing charger & dolby visiob blobs
-- Debloat gapps packages
-- Fixed Autobrightness
-- Update hyper blobs from V816.0.5.0
-- Synced with latest los kernel
-- Synced with latest Everest V1.2 source based on May SP
+* Add missing charger & dolby visiob blobs
+* Debloat gapps packages
+* Fixed Autobrightness
+* Update hyper blobs from V816.0.5.0
+* Synced with latest los kernel
+* Synced with latest Everest V1.2 source based on May SP
 
 ===== 08 May, 2024 =====
-- Based on LOS trees
-- MemeCam included
-- Ships with BCR app v1.62
-- Ships with Parts & Dolby sound and Widevine is L1
-- Switched to OSS kernel and ships with 5.10.209
+* Based on LOS trees
+* MemeCam included
+* Ships with BCR app v1.62
+* Ships with Parts & Dolby sound and Widevine is L1
+* Switched to OSS kernel and ships with 5.10.209
 
 ## Notes:
-- Based on HyperOS fw
-- Bugs? just send me logs
-- Clean flash is mandatory
+* Based on HyperOS fw
+* Bugs? just send me logs
+* Clean flash is mandatory
