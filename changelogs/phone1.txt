@@ -1,0 +1,5 @@
+# 31-May-2024 
+
+- Initial update 
+- Updated camera blobs from nos 2.5.5
+- Safetynet passes by default and device certified.
