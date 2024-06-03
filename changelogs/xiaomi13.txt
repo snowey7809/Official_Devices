@@ -1,14 +1,22 @@
 # Device: xiaomi13 (xiaomi13)
 ## Device maintainer: xt0032rus
 
+===== 03 June, 2024 =====
+- Synced with latest Everest Source
+- Switched to Everest launcher(Launcher 3)
+- Update audio configs
+- Fx Wifi
+- Miui Camera by default
+- Enable screen-off UDFPS by default
+
 ===== 22 May, 2024 =====
-- Synced with latest Everest Source 
+- Synced with latest Everest Source
 - Switched to Pixel Launcher
 - Kernel OSS 5.15.150
 
 ===== 19 May, 2024 =====
-- May SecurityPatch 
-- Synced with latest Everest Source 
+- May SecurityPatch
+- Synced with latest Everest Source
 - Enabled battery cycle count from battery information
 - Added MIUI Camera
 - Switched to Everest launcher(Launcher 3)
