@@ -1,3 +1,8 @@
+# EverestOS Version 1.2 (13-June-2024)
+- Fixed ramdom screen freeze issue
+- Removed KSU
+- Fixed Monet Theme
+
 # EverestOS Version 1.2 (28-May-2024)
 - fixes playintegrity with signing builds
 - Swiched to pixel launcher
