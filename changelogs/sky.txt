@@ -1,0 +1,42 @@
+Highlights & Device Specific Changes:
+Build type: OFFICIAL (Monthly)
+Device: Redmi 12 5g/Poco M6 Pro 5g (sky)
+Device maintainer: Ashwani_&_Dhanush
+
+=====================
+14th July,2024 
+=====================
+- Build shipped with lawnchair.
+- Synced with latest Everest source Qpr3. 
+- LTE+ fixed now.
+- Reworked statusbar padding.
+- Fixed realme link app crash.
+- Fixed game space fps reader.
+- lift to check phone Added.
+
+
+
+=================
+# Flashing guide: 
+=================
+(recovery roms)
+
+- open twrp/ofox/pbrp recovery
+- format /data
+- flash rom:
+- install > select rom.xxx.zip
+- or adb sideload rom.xxx.zip (from a computer)
+- reboot to recovery
+- flash gapps (in case of vanilla rom):
+- same as flashing rom, see above
+- flash fw (no need if already on latest fw):
+- same as flashing rom, see above
+- reboot to system
+
+(fastboot roms)
+
+- reboot to bootloader {power + vol(-)}
+- fastboot update —skip-reboot rom.xxx.zip
+- fastboot reboot recovery
+- format /data
+- reboot to system
