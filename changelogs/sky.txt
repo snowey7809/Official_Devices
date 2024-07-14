@@ -6,6 +6,14 @@ Device maintainer: Ashwani_&_Dhanush
 =====================
 14th July,2024 
 =====================
+- switched HWUI backend rendering to opengl (fixes lag during insta, snapchat scroll).
+- added speed profile service to reduce ram and storage.
+- enable suspend to RAM for idle drain improvement.
+- added props for battery efficiency.
+- enabled aosp surfaceflinger for smooth experience.
+- added props for apk fs-verity to bypass root detection in some apps.
+- Added props to improve qs panel smoothness. 
+
 - Build shipped with lawnchair.
 - Synced with latest Everest source Qpr3. 
 - LTE+ fixed now.
