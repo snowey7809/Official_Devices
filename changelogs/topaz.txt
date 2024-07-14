@@ -1,0 +1,5 @@
+# 15-July-2024
+
+- Initial QPR3 Build.
+- July Security Patch
+- Fixed SMS visual, Autobrightness, and etc.
