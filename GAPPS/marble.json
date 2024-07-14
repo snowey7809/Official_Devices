@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1717060074,
-      "size": 2509946812,
-      "filehash": "f19bcb6efef1e204c72a8eff786cc18f",
-      "filename": "Everest-1.2-Gokyo-marble-OFFICIAL-GAPPS-1122-20240530.zip",
-      "id": "a8acd7144bfa306aabfcb9e40287878164f0e39100929f628fe53586a89eb22a",
+      "datetime": 1720929586,
+      "size": 2602298968,
+      "filehash": "500526b7ea19863d67fbab72ca6b71a4",
+      "filename": "Everest-1.3-Tenzing-marble-OFFICIAL-GAPPS-0359-20240714.zip",
+      "id": "70565c5da039cc10a25e609c10e0ab83096486b33f4d2cf765b14830a1a57b77",
       "romtype": "OFFICIAL",
-      "version": "1.2",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/marble/Everest-1.2-Gokyo-marble-OFFICIAL-GAPPS-1122-20240530.zip/download"
+      "version": "1.3",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/marble/Everest-1.3-Tenzing-marble-OFFICIAL-GAPPS-0359-20240714.zip/download"
     }
   ]
 }

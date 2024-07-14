@@ -2,6 +2,18 @@
 # Device: Poco F5 (marble)
 ## Device maintainer: SharmagRit
 
+===== 14 July, 2024 =====
+* Fixed OIS Camera
+* Fixed flickering issues at Low Brightness & AoD
+* Added refresh rate qs tile
+* Updated BCR App to latest v1.65
+* Silenced some spammy logging
+* Refactored Clear Speaker Fragment code
+* Imported missing media codecs from stock
+* Update CarrierConfig from munch V816.0.2.0.ULMMIXM
+* Set TARGET_CAMERA_PACKAGE_NAME for Miui/Leica Camera
+* Disable autobrightness by default
+
 ===== 29 May, 2024 =====
 * Fix Ott playback issue
 * Fix QS lag (hopefully)
