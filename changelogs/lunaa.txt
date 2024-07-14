@@ -1,3 +1,12 @@
+# EverestOS Version 1.3 (14-july-2024)
+- Swiched to Pixel launcher
+- Synced with latest Everest source 
+- LTE+ fixed now 
+- Reworked statusbar padding
+- Fixed realme link app crash
+- Fixed game space fps reader
+- firmware included(F.17)
+
 # EverestOS Version 1.2 (13-June-2024)
 - Fixed ramdom screen freeze issue
 - Removed KSU
