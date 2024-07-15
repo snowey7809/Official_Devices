@@ -1,4 +1,17 @@
+================
+# 15-July-2024
+================
+
+- Added XiaomiDolby and Dolby Vision, HDR
+- Added Xiaomi Parts (Refresh rate per app, thermal, clear speaker)
+- Update Blobs to V816.0.9.0.UNRMIXM
+- Switch to common xiaomi vibrator service
+- Fixed Ott playback issue
+- Fixed glowing issue on fingerprints
+
+================
 # 30-May-2024
+================
 
 - Initial Official Release
 - May SecurityPatch
@@ -29,3 +42,7 @@
 - Reboot back to TWRP
 - Data Format (Optional)
 - Reboot system. Done!
+
+# Credits
+- Big thank's @grewal for resources
+- Thank's SM7435 Development Hub
