@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1716813136,
-      "size": 2496981726,
-      "filehash": "04ac4832bb05faa77885f54c060d3481",
-      "filename": "Everest-1.2-Gokyo-garnet-OFFICIAL-GAPPS-0128-20240530.zip",
-      "id": "871926e02efec505077e1e1fd71b4d7fa999cba0bcf7f2b9e267807999db8f48",
+      "datetime": 1720975188,
+      "size": 2581829139,
+      "filehash": "ebf5deb1fe0e19a6b940065710ff5384",
+      "filename": "Everest-1.3-Tenzing-garnet-OFFICIAL-GAPPS-0209-20240715.zip",
+      "id": "cbf29c4ad3330acc601655a0197efb0e3663efd50c9a7184db2c603bc79827d0",
       "romtype": "OFFICIAL",
-      "version": "1.2",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/garnet/Everest-1.2-Gokyo-garnet-OFFICIAL-GAPPS-0128-20240530.zip/download"
+      "version": "1.3",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/garnet/Everest-1.3-Tenzing-garnet-OFFICIAL-GAPPS-0209-20240715.zip/download"
     }
   ]
 }
