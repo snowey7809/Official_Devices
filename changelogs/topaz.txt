@@ -1,5 +1,15 @@
-# 15-July-2024
+Build Type: OFFICIAL
+Device: Redmi Note 12 4G (Topaz/Tapas)
+Device maintainer: skwel
 
-- Initial QPR3 Build.
+# 14-July-2024
+
+- Initial QPR3 Build. Released Vanilla variant
 - July Security Patch
 - Fixed SMS visual, Autobrightness, and etc.
+
+# 15-July-2024
+
+- Added GAPPS variant
+- Fixed Battery Health counter
+- Added optimizations
