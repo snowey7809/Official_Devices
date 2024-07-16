@@ -1,5 +1,11 @@
-# 17-May-2024
+================
+# 16-July-2024
+================
 
-- Initial QPR2 Build.
-- May SP
+- Initial QPR3 Build
+- Synchronize the latest kernel code from YAAP
 - KSU Included
+- Fix sepolicy for Edge anti-accidental touch in OnePlus Settings
+- Reduce default vibration intensities
+- Adreno: move to 530.54
+- Improve haptics latency when under load
