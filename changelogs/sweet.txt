@@ -1,4 +1,10 @@
 ### Device side changelogs
 
+# EverestOS 1.3 - Tenzing
+- Intitial qpr3 realse
+- dt2w dead with default kernel flash sleepy for work
+- launcher3 is by default
+- strixx kernel by default
+
 # EverestOS 1.2 - GOKYO
 - Initial official build
