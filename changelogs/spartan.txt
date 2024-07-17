@@ -1,0 +1,9 @@
+================
+# 17-July-2024
+================
+
+- Initial Official release
+- July Security Patch (qpr3)
+- Fixed raise to wake
+- Oplus Camera & Dolby included
+- KSU included
