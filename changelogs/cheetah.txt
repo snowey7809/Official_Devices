@@ -1,0 +1,44 @@
+# EverestOS Version 1.3 (21-July-2024)
+
+=========================================
+Device : Pixel 7 pro (cheetah)
+Codename : Cheetah
+Build Type : STABLE (Gapps)
+Maintainer : Kenway241
+=========================================
+
+- Initial Official release
+- July Security Patch (qpr3)
+- Signed Build, Play Integrity Passes
+- Added PixelParts
+- Added BCR for Seamless Call Recording (v1.65)
+
+
+=================
+# Flashing guide: 
+=================
+
+First Time Install
+(Note: These releases include firmware)
+1. Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
+2. Reboot to bootloader
+3. fastboot flash boot boot.img
+   fastboot flash dtbo dtbo.img
+   fastboot flash vendor_kernel_boot vendor_kernel_boot.img
+   fastboot flash vendor_boot vendor_boot.img
+   fastboot reboot recovery
+4. While in recovery, navigate to Factory reset -> Format data/factory reset and confirm to format the device.
+5. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
+6. adb sideload rom.zip (replace "rom" with actual filename)
+7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
+8. Reboot to system
+
+Update
+1. Reboot to recovery
+2. While in recovery, navigate to Apply update -> Apply from ADB
+3. adb sideload rom.zip (replace "rom" with actual filename)
+4 (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
+5. Reboot to system
+
+OTA
+1. Check for update. If available, select "Download and install" (approx 10-15 min)
