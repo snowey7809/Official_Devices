@@ -1,3 +1,16 @@
+# 22-July-2024
+
+- Merged with latest source
+- Implemented Tweaks regarding zRam for better performance....
+- Made some configuration regarding thermals
+- Signed Build ( Play Integrity Passes out of the box)
+- Disable Skia tracing by default to fix battery drain
+- Enabled suspend to RAM to improve idle drain considerably
+- Nuked Useless Display Color Modes ( Automatic, sRGB, p3, Original )
+- Fixed FM Radio & Screen Cast
+- Fixed Wifi Calling
+- Implemented XiaomiParts( Per-App refresh rate, Speaker Cleaner, Per-App Thermal Profiles, etc)
+
 # 20-May-2024
 
 - Initial Official Release
