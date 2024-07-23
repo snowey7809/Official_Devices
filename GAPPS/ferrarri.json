@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1716073392,
-      "size": 3416594744,
-      "filehash": "09c47bb0eb6d7ae04f53b90e223d699f",
-      "filename": "Everest-1.2-Gokyo-ferrarri-OFFICIAL-GAPPS-1202-20240523.zip",
-      "id": "c3ef8aceb5a4767239271349bb45dc0743f043133ddf8622b3ab0dd0db99cf17",
+      "datetime": 1721651135,
+      "size": 3399243314,
+      "filehash": "0fb470aa596e28aa485961db1bf2835e",
+      "filename": "Everest-1.3-Tenzing-ferrarri-OFFICIAL-GAPPS-1226-20240722.zip",
+      "id": "887ab33e0d89f5a1a201de193ccb5a67bdb55b3743dc0d4f6e8533e9a1e0140a",
       "romtype": "OFFICIAL",
-      "version": "1.2",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/ferrarri/Everest-1.2-Gokyo-ferrarri-OFFICIAL-GAPPS-1202-20240523.zip/download"
+      "version": "1.3",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/ferrarri/Everest-1.3-Tenzing-ferrarri-OFFICIAL-GAPPS-1226-20240722.zip/download"
     }
   ]
 }
