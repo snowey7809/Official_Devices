@@ -1,4 +1,13 @@
 ================
+# 23-July-2024
+================
+
+- Fixed flickering in AOD
+- Disable blur to reduce qs lag
+- Detect OEM fast charging
+- Added global 1.0.6.0 firmware
+
+================
 # 15-July-2024
 ================
 
