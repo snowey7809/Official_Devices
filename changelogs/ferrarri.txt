@@ -1,3 +1,24 @@
+# EverestOS Version 1.3 (23-July-2024)
+
+Device : Realme GT 2 Pro 5G (RMX3301)
+Codename : Ferrarri
+Build Type : STABLE (Gapps)
+Maintainer : Omkar Parte ( @rakmoparte )
+
+=======================================
+Changelog For ProjectBlaze v3.6 STABLE
+              23-07-2024
+=======================================
+
+- KSU Supported 
+- Kernel Updated to 5.10.218 By [Arman_ATI](https://t.me/Arman_ATI)
+- Updated Blobs to RMX3301_14.0.0.810(EX01)
+- Many For Misc Changes ( Too long to Mention )
+- Play Integrity Passes Builds are now Signed
+- Clean Flash Needed New Signing Keys Are Now Being Used
+
+###  Flashing Step - Via sideload as usual
+
 # EverestOS Version 1.2 (25-May-2024)
 
 =========================================
@@ -28,8 +49,6 @@ Maintainer : Omkar Parte ( @rakmoparte )
 - Pickup Sensor Now Working
   (Using Different Als thanks to Vimal )
 - Future Updates will Now support OTA
-
-###  Flashing Step - Via sideload as usual
 
 ## Credits
 
