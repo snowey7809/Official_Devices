@@ -1,4 +1,4 @@
-# EverestOS Version 1.3 (21-July-2024)
+# EverestOS Version 1.3
 
 =========================================
 Device : Pixel 7 pro (cheetah)
@@ -6,6 +6,21 @@ Codename : Cheetah
 Build Type : STABLE (Gapps)
 Maintainer : Kenway241
 =========================================
+
+
+# EverestOS Version 1.3 (24-July-2024)
+
+- latest Source Changes
+- Added Gcam
+- enable VoLTE, VoWiFi & 5G for non-supported countries
+- Update BCR to v1.66
+- Added Lawnchair as default launcher
+- Updated firmware from AP2A.240705.004
+- Allow running 32-bit apps
+
+
+
+# EverestOS Version 1.3 (21-July-2024)
 
 - Initial Official release
 - July Security Patch (qpr3)
