@@ -1,9 +1,7 @@
 ================
-# 17-July-2024
+# 26-July-2024
 ================
 
-- Initial Official release
-- July Security Patch (qpr3)
-- Fixed raise to wake
-- Oplus Camera & Dolby included
-- KSU included
+- Implemented Richtap Haptics
+- Switch to Perf - 4.19.304 kernel as off now
+- No Screen Flicker while unlocking
