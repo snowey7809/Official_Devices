@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": 1720858086,
-      "size": 2614101275,
-      "filehash": "b78189e428c21717f7b9b9c058d2363b",
-      "filename": "Everest-1.3-Tenzing-spartan-OFFICIAL-GAPPS-0758-20240717.zip",
-      "id": "eb9c449158fa279df61db3764f33c480f70169dd9907f350a4c040d20edfcc45",
+      "size": 2613989736,
+      "filehash": "2a8923db7ec8f96005a6a2d9ae2832ea",
+      "filename": "Everest-1.3-Tenzing-spartan-OFFICIAL-GAPPS-0335-20240726.zip",
+      "id": "c51ef8a8e96996b69efb46c834409423dfea1d4b7d006c79a3d668e985ae44d3",
       "romtype": "OFFICIAL",
       "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/spartan/Everest-1.3-Tenzing-spartan-OFFICIAL-GAPPS-0758-20240717.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/spartan/Everest-1.3-Tenzing-spartan-OFFICIAL-GAPPS-0335-20240726.zip/download"
     }
   ]
 }
