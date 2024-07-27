@@ -1,0 +1,15 @@
+≡ 27-July-2024
+
+- Initial Official Release
+- Synced with latest source
+- July Security Patch
+- KernelSU enable
+
+# Credits:
+- @Alwynluxy @agiiillll27 @novabc for testing
+- @txknightt for server
+
+# Notes:
+- Non-FBE legacy and 4.19 based build
+- Pie firmware 063 or 087 recommended
+- Nikgapps core/basic recommended (Vanilla)
