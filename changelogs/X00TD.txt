@@ -1,3 +1,24 @@
+ ≡ 31-July-2024
+
+- Synced with latest source
+- Fix missing sensors
+- Fix Play Integrity
+- Update patch for KSU umount module
+- OTA support pushed
+
+# Credits:
+- @SonicBSV for source trees
+- @agiiillll27 for testing
+- @txknightt for server
+
+# Notes:
+- Non-FBE legacy and 4.19 based build
+- Nikgapps core/basic recommended (Vanilla)
+- Pie firmware 063/087 recommended
+- Signed Build.
+
+ ――――――――――――――――――――――――――――――――――――――――――――――
+
 ≡ 27-July-2024
 
 - Initial Official Release
