@@ -1,3 +1,9 @@
+# 02-Aug-2024
+- Merged with latest source
+- Implemented XiaomiParts Dolby ( Officially Certified for both Apple and TIDAL music )
+- Signed Build ( Play Integrity Passes out of the box)
+- Implemented ViPER4AndroidFX
+
 # 22-July-2024
 
 - Merged with latest source
