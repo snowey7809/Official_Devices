@@ -1,6 +1,19 @@
 # Device: xiaomi13 (xiaomi13)
 ## Device maintainer: xt0032rus
 
+===== 03 July, 2024 =====
+- Synced with latest Everest Source
+- Miui Camera by default
+- July SecurityPatch
+- Certification passed
+- Upstream kernel to 5.15.150
+- KernelSU no embedded
+- Hi libperfmgr
+- Symlink changes
+- Upstream display, camera, audio-ar, etc etc.
+- Proper doze brightness as it's broken asf before
+- OS1.0.5.0.UMCMIXM or higher is required (and no need if you're from PA)
+
 ===== 03 June, 2024 =====
 - Synced with latest Everest Source
 - Switched to Everest launcher(Launcher 3)
