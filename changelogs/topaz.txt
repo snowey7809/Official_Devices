@@ -2,6 +2,18 @@ Build Type: OFFICIAL
 Device: Redmi Note 12 4G (Topaz/Tapas)
 Device maintainer: skwel
 
+# 05-August-2024
+
+- Fixed Offline Charging
+- Fixed Color modes visual glitch
+- Fixed Battery health counter visual glitch
+- Switch to release-key
+- Add smooth motion flag & prop
+- Better RAM management
+- Speed profile services and wifi-service to reduce RAM and storage
+- Optimize Launcher3 and Settings for speed
+- Compile HWUI for performance
+
 # 14-July-2024
 
 - Initial QPR3 Build. Released Vanilla variant
@@ -13,3 +25,4 @@ Device maintainer: skwel
 - Added GAPPS variant
 - Fixed Battery Health counter
 - Added optimizations
+
