@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1722838130,
-      "size": 1235885473,
-      "filehash": "27f8de6954a3074837f590cecb080aca",
-      "filename": "Everest-1.3-Tenzing-topaz-OFFICIAL-VANILLA-0639-20240805.zip",
-      "id": "674f7d6b94e2516b3810b60830fa7bd8fca83d955be38696401207494576ea22",
+      "datetime": 1724708971,
+      "size": 1281867791,
+      "filehash": "c8917aeb4b60b9ab5d70d04ae738b359",
+      "filename": "EverestOS-1.5-Lukla-topaz-OFFICIAL-VANILLA-2213-20240826.zip",
+      "id": "bb99bbd26647b9bcd24146630bf53830e47212246f631d8096391292f5063953",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/topaz/Everest-1.3-Tenzing-topaz-OFFICIAL-VANILLA-0639-20240805.zip/download"
+      "version": "1.5",
+      "maintainer": "skwel",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/topaz/EverestOS-1.5-Lukla-topaz-OFFICIAL-VANILLA-2213-20240826.zip/download"
     }
   ]
 }
