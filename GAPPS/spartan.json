@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1720858086,
-      "size": 2613989736,
-      "filehash": "2a8923db7ec8f96005a6a2d9ae2832ea",
-      "filename": "Everest-1.3-Tenzing-spartan-OFFICIAL-GAPPS-0335-20240726.zip",
-      "id": "c51ef8a8e96996b69efb46c834409423dfea1d4b7d006c79a3d668e985ae44d3",
+      "datetime": 1724651278,
+      "size": 2709853659,
+      "filehash": "e761b250bf7e26416058139cac7eea63",
+      "filename": "EverestOS-1.5-Lukla-spartan-OFFICIAL-GAPPS-0326-20240827.zip",
+      "id": "1b4cd9baccc4c7d86459f6536f485dc958fe26c26cdf0cb1f9e3034a1a8b76f6",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/spartan/Everest-1.3-Tenzing-spartan-OFFICIAL-GAPPS-0335-20240726.zip/download"
+      "version": "1.5",
+      "maintainer": "RYUK",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/spartan/EverestOS-1.5-Lukla-spartan-OFFICIAL-GAPPS-0326-20240827.zip/download"
     }
   ]
 }
