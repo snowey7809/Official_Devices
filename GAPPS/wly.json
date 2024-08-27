@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1720917906,
-      "size": 3169777526,
-      "filehash": "99d1bb41566250bf21d2186621111c57",
-      "filename": "Everest-1.3-Tenzing-wly-OFFICIAL-GAPPS-0046-20240714.zip",
-      "id": "1d23568938e216007838ece30fae4cd30e115d879e53fa0ba0fa3a9429fed951",
+      "datetime": 1724738137,
+      "size": 3297392762,
+      "filehash": "32c9833940d71659f51b0824d32d43ce",
+      "filename": "EverestOS-1.5-Lukla-wly-OFFICIAL-GAPPS-0557-20240827.zip",
+      "id": "be6c269ea1eb1ab06e6c9d7b43c398080ff4e74f2596d4dba18def635e9a063d",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/wly/Everest-1.3-Tenzing-wly-OFFICIAL-GAPPS-0046-20240714.zip/download"
+      "version": "1.5",
+      "maintainer": "Arman-ATI",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/wly/EverestOS-1.5-Lukla-wly-OFFICIAL-GAPPS-0557-20240827.zip/download"
     }
   ]
 }
