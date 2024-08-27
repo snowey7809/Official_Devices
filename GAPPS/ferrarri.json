@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1721651135,
-      "size": 3399243314,
-      "filehash": "0fb470aa596e28aa485961db1bf2835e",
-      "filename": "Everest-1.3-Tenzing-ferrarri-OFFICIAL-GAPPS-1226-20240722.zip",
-      "id": "887ab33e0d89f5a1a201de193ccb5a67bdb55b3743dc0d4f6e8533e9a1e0140a",
+      "datetime": 1724748048,
+      "size": 3642944709,
+      "filehash": "78a311765b983a900120ae8ca9948a3f",
+      "filename": "EverestOS-1.5-Lukla-ferrarri-OFFICIAL-GAPPS-0842-20240827.zip",
+      "id": "15e90511b8c131d58df6742a12f61054b9ffe861c0a9efff8154d623adbd096d",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/ferrarri/Everest-1.3-Tenzing-ferrarri-OFFICIAL-GAPPS-1226-20240722.zip/download"
+      "version": "1.5",
+      "maintainer": "Arman-ATI",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/ferrarri/EverestOS-1.5-Lukla-ferrarri-OFFICIAL-GAPPS-0842-20240827.zip/download"
     }
   ]
 }
