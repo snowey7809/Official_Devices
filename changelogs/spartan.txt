@@ -1,7 +1,32 @@
 ================
+# 27-August-2024
+================
+
+- Added back OPlus Camera filters
+- Tweaked Keyguard indicator buttom margin
+- Switched to new CAF kernel (v4.19.319)
+
+Notes:
+- Cleanflash is Must
+- C.05 Firmware recommended
+- August Security Patch
+- Shipped with OPlus Camera & Dolby
+- KernelSU included
+
+================
 # 26-July-2024
 ================
 
 - Implemented Richtap Haptics
 - Switch to Perf - 4.19.304 kernel as off now
 - No Screen Flicker while unlocking
+
+================
+# 17-July-2024
+================
+
+- Initial Official release
+- July Security Patch (qpr3)
+- Fixed raise to wake
+- Oplus Camera & Dolby included
+- KSU included
