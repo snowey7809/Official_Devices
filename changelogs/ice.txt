@@ -1,0 +1,7 @@
+# EverestOS Version 1.5 (27-August-2024)
+
+- Initial Build
+- Synced with latest source
+- AOSPA dolby Present
+- OP12 Camera Included
+
