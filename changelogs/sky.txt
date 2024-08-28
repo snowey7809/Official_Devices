@@ -1,8 +1,12 @@
 Highlights & Device Specific Changes:
 Build type: OFFICIAL (Monthly)
 Device: Redmi 12 5g/Poco M6 Pro 5g (sky)
-Device maintainer: Ashwani_&_Dhanush
+Device maintainer: Dhanush😊
 
+=====================
+28th Aug,2024 
+=====================
+- Gcam added
 =====================
 14th July,2024 
 =====================
