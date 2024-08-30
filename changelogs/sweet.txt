@@ -1,5 +1,9 @@
 ### Device side changelogs
 
+sweet: Update 30/08/2024
+- Added MiDolby with Oneplus DAX UI(Sound quality same as MIUI)
+- sleepy kernel with ksu
+
 # EverestOS 1.3 - Tenzing
 - Intitial qpr3 realse
 - dt2w dead with default kernel flash sleepy for work
