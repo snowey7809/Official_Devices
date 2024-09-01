@@ -1,0 +1,15 @@
+# Highlights & Device Specific Changes:
+# Device: Pixel 6 (oriole)
+## Device maintainer: Glikched
+
+ ≡ 01-Sept-2024
+
+- Initial Release
+- Synced with latest source
+- Fix Play Integrity
+- OTA support pushed
+- Pixel Parts included
+
+# Credits:
+
+* Kernel 6.1.90 and thermals from hOS
