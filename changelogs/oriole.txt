@@ -2,6 +2,10 @@
 # Device: Pixel 6 (oriole)
 ## Device maintainer: Glikched
 
+ ≡ 03-Sept-2024
+
+- Roll back to kernel 5.15.x
+
  ≡ 01-Sept-2024
 
 - Initial Release
