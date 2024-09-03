@@ -2,6 +2,10 @@
 # Device: Pixel 6 Pro (raven)
 ## Device maintainer: Glikched
 
+ ≡ 03-Sept-2024
+
+- Roll back to kernel 5.15.x
+
  ≡ 01-Sept-2024
 
 - Initial Release
@@ -12,4 +16,4 @@
 
 # Credits:
 
-* Kernel 6.1.90 and thermals from hOS
+* Kernel 5.15.x and thermals from hOS
