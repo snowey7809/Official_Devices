@@ -7,6 +7,42 @@ Build Type : STABLE (Gapps)
 Maintainer : Kenway241
 =========================================
 
+# EverestOS Version 1.5 (05-sep-2024)
+
+- latest Source Changes
+- cheetah: Disable early thermal throttling
+- pantah: Set PRODUCT_USE_SCUDO := true
+- pantah: enable Smart Pixels
+- Enable option for full screen aspect ratio
+- cheetah: Enable wifi softap 6ghz support
+- pantah: Increase landscape status bar height
+- cheetah: Enable SettingsGoogle features
+- Update fingerprint/build description from AP2A.240805.005
+- Merge tag 'android-14.0.0_r55' into staging/lineage-21_merge-android-14.0.0_r55
+- gs201: Steal SurfaceFlinger offsets from taro
+- gs201: Switch to high fps vsync configuration
+- gs201: Tune cgroup cpusets
+- gs201: Disable hwc composition prediction strategy
+- gs201: Disable SF layer caching
+- gs201: Disable SF layer transaction tracing
+- gs201: Disable client composition caching
+- gs201: Tune refresh rate timers
+- gs201: Latch unsignaled buffers
+- gs201: Disable SF backpressure
+- gs201: Label nodes for device power modes
+- gs201: Add SystemUI restart to global actions
+- gs201: Pin rendering policies to display cpuset
+- gs201: Reduce background processes cpu.share to 2.5%
+- gs201: Source APNs from Pixel's CarrierSettings
+- gs201: Tune down_rate_limit for power consumption
+- gs201: conf: kill bugreport shortcut service
+- gs201: Set default dialer package name
+- gs201: Enable adaptive charging feature
+- gs201: Don't build userdata.img
+- cheetah-vendor: Import blobs & firmware from AP2A.240805.005
+- cheetah-vendor: drop DeviceIntelligenceNetworkPrebuilt and DevicePersonalizationPrebuiltPixel2022
+- Update BCR to v1.69
+- pixel-camera: updated to latest
 
 # EverestOS Version 1.3 (24-July-2024)
 
