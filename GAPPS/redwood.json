@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1716340983,
-      "size": 2261452119,
-      "filehash": "f09a94f475fef82c7078ee9c5aa5a2c6",
-      "filename": "Everest-1.2-Gokyo-redwood-OFFICIAL-GAPPS-0153-20240522.zip",
-      "id": "0ebd55f165375cec32561f208f8f96c2dee67f44a69e4518f71493ea0ef89907",
+      "datetime": 1725610954,
+      "size": 2464441432,
+      "filehash": "434cd15d5e55ecc402a214dcfa6ef66b",
+      "filename": "EverestOS-1.5-Lukla-redwood-OFFICIAL-GAPPS-0907-20240906.zip",
+      "id": "3ea367dbfeb7d184afadb76be34cf6c595c10291acbb7de8b1ee9762e5d989ce",
       "romtype": "OFFICIAL",
-      "version": "1.2",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/redwood/Everest-1.2-Gokyo-redwood-OFFICIAL-GAPPS-0153-20240522.zip/download"
+      "version": "1.5",
+      "maintainer": "Rushi",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/redwood/EverestOS-1.5-Lukla-redwood-OFFICIAL-GAPPS-0907-20240906.zip/download"
     }
   ]
 }

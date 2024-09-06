@@ -1,5 +1,15 @@
 ### Device side changelogs
 
+EverestOS 1.5 - Lukla
+- Switch To TURBO kernel
+- both panel are supported
+- Update blobs to redwood V816.0.6.0.UMSMIXM
+- Update adreno graphics stack to v777.0
+- Update display postprocessing blobs to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- ksu,cam included
+- dolby dropped
+- Many More
+
 EverestOS 1.2 - GOKYO 
 - Added sku prop for Proper Identification
 - Synced with latest Everest source changes
