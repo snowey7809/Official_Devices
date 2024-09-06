@@ -4,6 +4,10 @@ Device: Redmi 12 5g/Poco M6 Pro 5g (sky)
 Device maintainer: Dhanush😊
 
 =====================
+06th Sep,2024 
+=====================
+- quick switch (pixel & lawnchair launcher dropped)
+=====================
 28th Aug,2024 
 =====================
 - Gcam added
