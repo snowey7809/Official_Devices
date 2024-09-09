@@ -1,3 +1,27 @@
+# EverestOS Version 1.5
+
+=========================================
+Device : OnePlus 12R (aston)
+Codename : aston
+Build Type : STABLE (Gapps)
+Maintainer : snow
+=========================================
+
+# EverestOS Version 1.6 (09-09-2024)
+
+- Alert Slider Customisations 
+- Added dimens for alert Slider 
+- Added KernelSU
+- Added Dolby Atmos with Equaliser
+- Fixed battery drain 
+- Fixed multi touch issue 
+- Fixed launcher Freezes
+- Bootloader Spoofing works OTTB (Thanks to @Arman_ATI)
+
+=========================================
+
 # EverestOS Version 1.5 (26-08-2024)
 
 - Initial Official release
+
+=========================================
